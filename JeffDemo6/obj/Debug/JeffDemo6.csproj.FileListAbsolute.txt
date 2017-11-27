@@ -1,0 +1,7 @@
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\bin\Debug\JeffDemo6.exe.config
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\bin\Debug\JeffDemo6.exe
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\bin\Debug\JeffDemo6.pdb
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\obj\Debug\JeffDemo6.csprojResolveAssemblyReference.cache
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\obj\Debug\JeffDemo6.csproj.CoreCompileInputs.cache
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\obj\Debug\JeffDemo6.exe
+C:\Users\Mike\playground\code\JeffDemo6\JeffDemo6\obj\Debug\JeffDemo6.pdb
